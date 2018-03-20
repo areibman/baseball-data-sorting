@@ -9,12 +9,9 @@
 `pip -m pytest test_run.py`
 
 ### Requirements:
-`
-setuptools==36.5.0.post20170921
+`setuptools==36.5.0.post20170921
 pytest==3.0.6
-pandas==0.20.3
-
-`
+pandas==0.20.3`
 
 ## Terminology
 1. **Subject**: A field that is grouped on; analogous to SQL's "GROUP BY"  
